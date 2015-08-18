@@ -1,0 +1,66 @@
+From alexander.reinholdt at web.de  Sun Jul  6 16:27:28 2008
+From: alexander.reinholdt at web.de (Alexander Reinholdt)
+Date: Sun, 06 Jul 2008 16:27:28 +0200
+Subject: [smb4k-announce] Smb4K 0.10.0beta1 released
+Message-ID: <1546318620@web.de>
+
+The first beta release of the upcoming Smb4K 0.10.0 has been made available today. It comes with several bug fixes and changes compared to the alpha release. The most prominent modification is the termination of the support of the deprecated SMBFS file system (Linux and similar operating systems). It is not needed anymore now that the support of the CIFS file system in Samba has matured and the mounting of W9x shares is possible. For all changes refer to the ChangeLog file enclosed in the source tarball.
+
+After some discussion, we decided to not port the Konqueror plugin to KDE 4 for now but keep the source until a final decision has been made. You can still participate in our  survey [1] to tell us your opinion on this matter.
+
+If you want to compile the source, please have a look at the announcement of Smb4K 0.10.0alpha [2] on how to work with the new cmake build system.
+
+Since this is a pre-release, there are still most definetly bugs. Thus, all users are encourged to report any bugs to our bug tracker [3]. We explicitly want to thank all users who already did this and helped to improve Smb4K.
+
+The ChangeLog and the release notes can be viewed at [2] and the source code of the first beta version can be downloaded from [4].
+
+For the Smb4K team
+Alexander Reinholdt
+
+[1] https://developer.berlios.de/survey/survey.php?group_id=769&survey_id=167
+[2] https://developer.berlios.de/project/shownotes.php?release_id=14813
+[3] http://developer.berlios.de/bugs/?group_id=769
+[4] http://download.berlios.de/smb4k/smb4k-0.10.0beta1.tar.bz2
+_______________________________________________________________________
+Jetzt neu! Sch?tzen Sie Ihren PC mit McAfee und WEB.DE. 30 Tage
+kostenlos testen. http://www.pc-sicherheit.web.de/startseite/?mc=022220
+
+
+
+From alexander.reinholdt at web.de  Fri Jul 25 10:39:40 2008
+From: alexander.reinholdt at web.de (Alexander Reinholdt)
+Date: Fri, 25 Jul 2008 10:39:40 +0200
+Subject: [smb4k-announce] Smb4K 0.10.0beta2 released
+Message-ID: <1565555148@web.de>
+
+The second beta of Smb4K 0.10.0 has been released. It mainly focuses on the
+completion of the main window and on fixing bugs, but we also removed the
+support for the suid program 'super' that does not belong to standard
+installation of most distributions. If you were using 'super', please
+reconfigure Smb4K.
+
+For a full list of changes please have a look at the ChangeLog file in the
+source tarball.
+
+We want to encourage our users to give Smb4K 0.10.0beta2 a try and report any
+bugs to our bug tracker [1], so that we can improve it before the release. The
+final version is expected to be released in the beginning of August.
+The release notes can be viewed [2] and the source code of this beta release
+can be downloaded from [3].
+
+For the Smb4K team
+Alexander Reinholdt
+
+[1] http://developer.berlios.de/bugs/?group_id=769
+[2] https://developer.berlios.de/project/shownotes.php?release_id=14813
+[3] http://prdownload.berlios.de/smb4k/smb4k-0.10.0beta2.tar.bz2
+-- 
+"Never argue with idiots. They drag you down to their level and beat you with
+experience..." (unknown)
+
+_____________________________________________________________________
+Der WEB.DE SmartSurfer hilft bis zu 70% Ihrer Onlinekosten zu sparen!
+http://smartsurfer.web.de/?mc=100071&distributionid=000000000066
+
+
+

@@ -1,0 +1,29 @@
+From alexander.reinholdt at t-online.de  Sun Jan 15 11:42:53 2012
+From: alexander.reinholdt at t-online.de (Alexander Reinholdt)
+Date: Sun, 15 Jan 2012 11:42:53 +0100
+Subject: [smb4k-announce] Smb4K 0.10.92 (1.0.0 rc3) released
+Message-ID: <2006032.BCQZUClDfh@dustpuppy>
+
+This is the third and thus presumably the last release candidate of Smb4K 
+1.0.0. Changes comprise among others a definitive fix to the 'invalid command: 
+net rap share list' error, updated translations and an updated README file.
+
+Release notes:
+http://sourceforge.net/projects/smb4k/files/Smb4K%20%28development%20releases%29/0.10.92/
+
+Download location:
+http://sourceforge.net/projects/smb4k/files/Smb4K%20%28development%20releases%29/0.10.92/smb4k-0.10.92.tar.bz2/download
+
+For the Smb4K team
+Alexander Reinholdt
+
+# The mailing list smb4k-announce at lists.berlios.de will be abandoned shortly 
+# due to our move the Sourceforge.net. If you want to track further releases,
+# please subscribe to the smb4k-announce mailing list at Sourceforge at
+# https://lists.sourceforge.net/lists/listinfo/smb4k-announce or subscribe 
+# to our blog at https://sourceforge.net/p/smb4k/blog/ .
+-- 
+"Never argue with idiots. They drag you down to their level and beat you with 
+experience..." (unknown)
+
+

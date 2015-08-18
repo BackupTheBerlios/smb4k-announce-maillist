@@ -1,0 +1,102 @@
+From alexander.reinholdt at t-online.de  Sun Oct  9 19:24:25 2011
+From: alexander.reinholdt at t-online.de (Alexander Reinholdt)
+Date: Sun, 09 Oct 2011 19:24:25 +0200
+Subject: [smb4k-announce] Smb4K moves to Sourceforge
+Message-ID: <2960351.gpe6iDrUPf@dustpuppy>
+
+We were notified that BerliOS will be closed on 31.12.2011. Due to this fact, 
+we will move Smb4K over to Sourceforge. The project page already exists and 
+will be populated with the project's files within the next days and weeks. If 
+you have bookmarked our old project's web site http://smb4k.berlios.de, please 
+replace it with http://smb4k.sf.net.
+
+We would like to thank BerliOS for hosting the Smb4K project over the last 
+eight years!
+
+For the Smb4K team
+Alexander Reinholdt
+-- 
+"Never argue with idiots. They drag you down to their level and beat you with 
+experience..." (unknown)
+
+
+From alexander.reinholdt at t-online.de  Sat Oct 22 11:29:47 2011
+From: alexander.reinholdt at t-online.de (Alexander Reinholdt)
+Date: Sat, 22 Oct 2011 11:29:47 +0200
+Subject: [smb4k-announce] Smb4K 0.10.90 (1.0.0 rc1) released
+Message-ID: <36656073.Gqk0APCg6x@erwin>
+
+This is the first of at least two release candidates of Smb4K 1.0.0. In this 
+release the handbook saw further improvements. Lock-ups when inaccessible 
+shares are checked (usage, owner, group, etc.), were eliminated and mounting 
+under FreeBSD finally works again. The mount dialog now accepts Windows-style 
+UNC addresses (\\SERVER\SHARE). The acquisition of IP addresses has been 
+improved. The ability to search for IP addresses in the search dialog has been 
+removed and hosts are no longer displayed in the search dialog. Again, several 
+bugs were fixed.
+
+Checksums:
+MD5 sum: 6e166eead700e0a21d4f324be4471e11 smb4k-0.10.90.tar.bz2
+SHA256 sum: baa2957f21e08d0bd9caaac3d063a247c68ef3f49b7fd75212de96d865cbd651 
+smb4k-0.10.90.tar.bz2
+
+Download location:
+http://sourceforge.net/projects/smb4k/files/Smb4K%20%28development%20releases%29/0.10.90/smb4k-0.10.90.tar.bz2/download
+
+For the Smb4K team
+Alexander Reinholdt
+
+
+*** BerliOS will be closed on 31.12.2011, so please consider to subscribe to 
+*** our new mailing list smb4k-announce at lists.sourceforge.net. To do so, 
+*** please visit https://lists.sourceforge.net/lists/listinfo/smb4k-announce
+
+
+From alexander.reinholdt at t-online.de  Sat Oct 22 11:31:15 2011
+From: alexander.reinholdt at t-online.de (Alexander Reinholdt)
+Date: Sat, 22 Oct 2011 11:31:15 +0200
+Subject: [smb4k-announce] Smb4K 0.10.90 (1.0.0 rc1) released
+Message-ID: <5224053.1eGZIGnZ9A@erwin>
+
+This is the first of at least two release candidates of Smb4K 1.0.0. In this 
+release the handbook saw further improvements. Lock-ups when inaccessible 
+shares are checked (usage, owner, group, etc.), were eliminated and mounting 
+under FreeBSD finally works again. The mount dialog now accepts Windows-style 
+UNC addresses (\\SERVER\SHARE). The acquisition of IP addresses has been 
+improved. The ability to search for IP addresses in the search dialog has been 
+removed and hosts are no longer displayed in the search dialog. Again, several 
+bugs were fixed.
+
+Checksums:
+MD5 sum: 6e166eead700e0a21d4f324be4471e11 smb4k-0.10.90.tar.bz2
+SHA256 sum: baa2957f21e08d0bd9caaac3d063a247c68ef3f49b7fd75212de96d865cbd651 
+smb4k-0.10.90.tar.bz2
+
+Download location:
+http://sourceforge.net/projects/smb4k/files/Smb4K%20%28development%20releases%29/0.10.90/smb4k-0.10.90.tar.bz2/download
+
+For the Smb4K team
+Alexander Reinholdt
+
+
+*** BerliOS will be closed on 31.12.2011, so please consider to subscribe to 
+*** our new mailing list smb4k-announce at lists.sourceforge.net. To do so, 
+*** please visit https://lists.sourceforge.net/lists/listinfo/smb4k-announce
+
+
+From alexander.reinholdt at t-online.de  Thu Oct 27 09:40:29 2011
+From: alexander.reinholdt at t-online.de (alexander.reinholdt at t-online.de)
+Date: Thu, 27 Oct 2011 09:40:29 +0200
+Subject: [smb4k-announce] File releases removed from BerliOS project page
+Message-ID: <1RJKZk-16Rnmq0@fwd11.aul.t-online.de>
+
+Due to the current move of Smb4K to Sourceforge.net, the file releases have been removed from the BerliOS project page.
+
+Our file releases can now be found at http://smb4k.sf.net/download.html or directly at http://sourceforge.net/projects/smb4k/files/ .
+
+For the Smb4K team
+Alexander Reinholdt
+
+
+
+

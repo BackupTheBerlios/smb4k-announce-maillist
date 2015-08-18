@@ -1,0 +1,37 @@
+From alexander.reinholdt at t-online.de  Sun Nov 13 11:27:16 2011
+From: alexander.reinholdt at t-online.de (Alexander Reinholdt)
+Date: Sun, 13 Nov 2011 11:27:16 +0100
+Subject: [smb4k-announce] Smb4K 0.10.11 released
+Message-ID: <2449566.T8l1rn7Nym@erwin>
+
+The eleventh maintenance of the stable Smb4K 0.10.x branch addresses problems 
+with non-latin languages and fixes runtime warning messages and one bug.
+
+Please note that also this version does not ship with the translations from 
+l10n-kde4!
+
+ChangeLog:
+- The application is using UTF8 now. This should fix the incompatibility
+  with non-Latin1 languages.
+- Smb4KAuthInfo::login() and Smb4KAuthInfo::password() return a QString.
+- Smb4KShare::path() and Smb4KShare::canonicalPath() return a QString.
+- Connect configuration dialog with system tray widget, so that changes
+  can directly be applied.
+- Fixed KLibrary warnings during runtime.
+
+Checksums:
+MD5 sum: 1658dae7be04ad4b81a21350504550ce smb4k-0.10.11.tar.bz2
+SHA256 sum: 18bbc715f06bef9263d8d1fda84c6ffe5172015c0b8b521e754c22efec629dda 
+smb4k-0.10.11.tar.bz2
+
+Download loacation:
+http://sourceforge.net/projects/smb4k/files/Smb4K%20%28stable%20releases%29/0.10.11/smb4k-0.10.11.tar.bz2/download
+
+For the Smb4K team
+Alexander Reinholdt
+
+## The Smb4K project moved to Sourceforge! The project page at BerliOS will be 
+## closed soon. So, please subscribe to smb4k-announce at lists.sourceforge.net 
+## as soon as possible. 
+
+

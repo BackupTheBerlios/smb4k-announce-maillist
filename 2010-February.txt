@@ -1,0 +1,28 @@
+From alexander.reinholdt at t-online.de  Sat Feb 13 11:49:19 2010
+From: alexander.reinholdt at t-online.de (Alexander Reinholdt)
+Date: Sat, 13 Feb 2010 11:49:19 +0100
+Subject: [smb4k-announce] Smb4K 0.10.5 released
+Message-ID: <201002131149.19688.alexander.reinholdt@t-online.de>
+
+The fifth maintenance release of Smb4K 0.10 has been made available today. It 
+mainly fixes a crash that occurred under certain circumstances if custom Samba 
+options were added or updated.
+
+ChangeLog:
+- Fixed a crash in Smb4KSambaOptionsHandler::addItem().
+- The copy constructor of Smb4KAuthInfo class now takes a constant reference.
+
+MD5 sum: 7596632420ebdb50a21dc0f3fa559727 smb4k-0.10.5.tar.bz2
+SHA256 sum: a3537a15b875d38f861fdd82fb04f5e3e2067095987ee03899d92e918ff3f2cf 
+smb4k-0.10.5.tar.bz2
+
+The default download location is:
+http://prdownload.berlios.de/smb4k/smb4k-0.10.5.tar.bz2
+
+For the Smb4K team
+Alexander Reinholdt
+-- 
+"Never argue with idiots. They drag you down to their level and beat you with 
+experience..." (unknown)
+
+

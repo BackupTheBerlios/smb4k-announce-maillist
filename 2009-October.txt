@@ -1,0 +1,49 @@
+From alexander.reinholdt at t-online.de  Thu Oct  1 19:06:25 2009
+From: alexander.reinholdt at t-online.de (Alexander Reinholdt)
+Date: Thu, 1 Oct 2009 19:06:25 +0200
+Subject: [smb4k-announce] Smb4K 0.10.4 released
+Message-ID: <200910011906.25898.alexander.reinholdt@t-online.de>
+
+Only one day after version 0.10.3 was released, Smb4K 0.10.4 has been made 
+available. It fixed a crash in the main window that was introduced in the last 
+release due to my carelessness. Sorry for any inconvenience!
+
+ChangeLog:
+- Fixed crash in the main window that made Smb4K unusable when no bookmarks
+  were defined.
+
+MD5 sum: e8676d8baaecdbcee60354c687a88a55 smb4k-0.10.4.tar.bz2
+SHA256 sum:  f9b32527d198dfc138aaf0478f4cb6aa811ed88c92d698fc59d96866fb8bd461 
+smb4k-0.10.4.tar.bz2
+
+Download location:
+http://prdownload.berlios.de/smb4k/smb4k-0.10.4.tar.bz2
+
+For the Smb4K team
+Alexander Reinholdt
+
+
+From alexander.reinholdt at t-online.de  Sat Oct 31 09:46:52 2009
+From: alexander.reinholdt at t-online.de (Alexander Reinholdt)
+Date: Sat, 31 Oct 2009 09:46:52 +0100
+Subject: [smb4k-announce] Smb4K in KDE Playground
+Message-ID: <200910310946.52826.alexander.reinholdt@t-online.de>
+
+Today I imported Smb4K HEAD to KDE Playground [1]. From now on, development 
+will take place there. Our CVS repository at BerliOS will still be used for 
+maintenance of the stable branches, though. Many thanks to the KDE sysadmin 
+team who helped with the transition.
+
+You can check out the latest development snapshot with anonymous SVN:
+
+$ svn co svn://anonsvn.kde.org/home/kde/trunk/playground/network/smb4k
+
+For the Smb4K team
+Alexander Reinholdt
+
+[1] http://websvn.kde.org/trunk/playground/network/smb4k/
+-- 
+"Never argue with idiots. They drag you down to their level and beat you with 
+experience..." (unknown)
+
+

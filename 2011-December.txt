@@ -1,0 +1,47 @@
+From alexander.reinholdt at t-online.de  Sat Dec  3 17:30:57 2011
+From: alexander.reinholdt at t-online.de (Alexander Reinholdt)
+Date: Sat, 03 Dec 2011 17:30:57 +0100
+Subject: [smb4k-announce] Smb4K 0.10.91 (1.0.0 rc2) released
+Message-ID: <1396864.tNyJUtGFvu@erwin>
+
+This is the second release candidate of Smb4K 1.0.0. It comes with some bug 
+fixes to the bookmark handler and the wallet manager. The revision of the 
+handbook has been finished.
+
+Release notes:
+https://sourceforge.net/projects/smb4k/files/Smb4K%20%28development%20releases%29/0.10.91/
+
+Download location:
+http://sourceforge.net/projects/smb4k/files/Smb4K%20%28development%20releases%29/0.10.91/smb4k-0.10.91.tar.bz2/download
+
+For the Smb4K team
+Alexander Reinholdt
+
+## The Smb4K project moved to Sourceforge! The project page at BerliOS will be 
+## closed soon. So, please subscribe to smb4k-announce at lists.sourceforge.net 
+## as soon as possible. 
+
+
+From alexander.reinholdt at t-online.de  Sun Dec  4 11:40:59 2011
+From: alexander.reinholdt at t-online.de (Alexander Reinholdt)
+Date: Sun, 04 Dec 2011 11:40:59 +0100
+Subject: [smb4k-announce] Smb4K 0.10.12 released
+Message-ID: <3578882.c2LQ9LhJuJ@erwin>
+
+The twelfth maintenance release of the stable 0.10.x branch fixes one bug in 
+the mounter and comes with updated addresses of our internet site and bug 
+mailing list.
+
+Please note that this release does not ship with the translations from l10n-
+kde4!
+
+Release notes:
+https://sourceforge.net/projects/smb4k/files/Smb4K%20%28stable%20releases%29/0.10.12/
+
+Download location:
+http://sourceforge.net/projects/smb4k/files/Smb4K%20%28stable%20releases%29/0.10.12/smb4k-0.10.12.tar.bz2/download
+
+For the Smb4K team
+Alexander Reinholdt
+
+
